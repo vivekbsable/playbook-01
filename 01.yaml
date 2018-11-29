@@ -1,5 +1,5 @@
 ---
-hostos: all 
+hostos: webservers 
 tasks:
 - copy: 
   content: "My content" 

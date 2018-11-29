@@ -1,0 +1,6 @@
+---
+hostos: all 
+tasks:
+- copy: 
+  content: "My content" 
+  dest: "01.txt"
